@@ -1,0 +1,35 @@
+---
+title: "<center>***Meme Exclusive***</center>"
+author: "<center>Pooja Shree Ramanathan</center>"
+date: "<center>April 29, 2017</center>"
+subject: "English 131"
+output: html_document
+---
+
+
+
+```{r setup, include=FALSE}
+library("dplyr")
+library("httr")
+library("jsonlite")
+library("knitr")
+library("ggplot2")
+library("tidyr")
+library("mapdata")
+library("plotly")
+```
+
+ |[*Home*](pooja.html) | [*Politics*](other/politics.html) | [*Tech*](other/tech.html) | [*Entertainment*](other/enter.html)| [*Fashion*](other/fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
+ |-------|------------|--------|----------------|-----------|----|----|-----|----|-----|-----|
+ 
+<center><h1> <u><u><br>***<u>Entertainment</u>***</u></u> <h1> 
+
+[<img src="other/ente.png" style="width: 550px;">](http://www.cnn.com/2017/04/25/health/13-reasons-why-teen-suicide-debate-explainer/index.html) <br><br></center> 
+
+### Alexa Curtis, 19, laid her laptop on her dinner table and took a deep breath. It was a brisk April evening, and Curtis was prepared to spend the night in her Boston apartment watching the new Netflix series "13 Reasons Why." As the first three episodes of the teen drama unfolded on her computer screen, Curtis' heart began to race.
+
+### "13 Reasons Why" is based on best-selling author Jay Asher's 2007 young adult book of the same title. Actress and pop star Selena Gomez co-produced the 13-episode Netflix adaptation.
+
+### The series, which premiered March 31, follows the fictional story of a teenage girl named Hannah Baker (Katherine Langford) who leaves behind 13 mysterious audio recordings on cassette tapes after killing herself. She addresses each recording to a person who she says played a role in her tragic decision to end her own life.
+
+### "The first thing that popped into my mind when watching it was, 'Wow,' " said Curtis, who founded the nonprofit Media Impact and Navigation for Teens, a program that raises awareness about online bullying.

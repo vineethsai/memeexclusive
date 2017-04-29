@@ -1,0 +1,35 @@
+---
+title: "<center>***Meme Exclusive***</center>"
+author: "<center>Pooja Shree Ramanathan</center>"
+date: "<center>April 29, 2017</center>"
+subject: "English 131"
+output: html_document
+---
+
+
+
+```{r setup, include=FALSE}
+library("dplyr")
+library("httr")
+library("jsonlite")
+library("knitr")
+library("ggplot2")
+library("tidyr")
+library("mapdata")
+library("plotly")
+```
+
+ |[*Home*](pooja.html) | [*Politics*](other/politics.html) | [*Tech*](other/tech.html) | [*Entertainment*](other/enter.html)| [*Fashion*](other/fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
+ |-------|------------|--------|----------------|-----------|----|----|-----|----|-----|-----|
+ 
+<center><h1> <u><u><br>***<u>Techonology</u>***</u></u> <h1>
+
+[<img src="other/tech.png" style="width: 550px;">](http://money.cnn.com/2017/04/24/technology/google-yi-halo/index.html) <br><br></center> 
+
+### Made by Chinese camera company YI with Google (GOOG), the Halo shoots 4k video simultaneously on all 17 cameras. It uses Google's Jump software to stitch the footage together into a single, immersive 360-degree VR film.
+
+### Google announced the new hardware Monday, barely a week after Facebook (FB, Tech30) revealed plans for a pair of its own VR cameras: the x24 and x6.
+
+### "Cameras are hot. That's good. We planned this a while ago," Amit Singh, Google's VP of business for VR, said at a briefing with reporters in San Francisco ahead of the news release.
+
+###The YI Halo will go on sale this summer, and Google says some early partners will get rigs right away. Why are consumer tech companies competing to make expensive hardware for a niche professional market? They really just want to sell more virtual reality headsets. But first, they need content people can actually watch on their futuristic face-mounted TVs.
