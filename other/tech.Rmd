@@ -9,15 +9,22 @@ output: html_document
 
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library("dplyr")
+library("httr")
+library("jsonlite")
+library("knitr")
+library("ggplot2")
+library("tidyr")
+library("mapdata")
+library("plotly")
 ```
 
- |[*Home*](pooja.html) | [*Politics*](politics.html) | [*Tech*](tech.html) | [*Entertainment*](ente.html)| [*Fashion*](fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
+ |[*Home*](pooja.html) | [*Politics*](other/politics.html) | [*Tech*](other/tech.html) | [*Entertainment*](other/enter.html)| [*Fashion*](other/fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
  |-------|------------|--------|----------------|-----------|----|----|-----|----|-----|-----|
  
 <center><h1> <u><u><br>***<u>Techonology</u>***</u></u> <h1>
 
-[<img src="tech.png" style="width: 550px;">](http://money.cnn.com/2017/04/24/technology/google-yi-halo/index.html) <br><br></center> 
+[<img src="other/tech.png" style="width: 550px;">](http://money.cnn.com/2017/04/24/technology/google-yi-halo/index.html) <br><br></center> 
 
 ### Made by Chinese camera company YI with Google (GOOG), the Halo shoots 4k video simultaneously on all 17 cameras. It uses Google's Jump software to stitch the footage together into a single, immersive 360-degree VR film.
 
