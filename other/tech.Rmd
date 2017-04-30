@@ -19,7 +19,7 @@ library("mapdata")
 library("plotly")
 ```
 
- |[*Home*](index.html) | [*Politics*](other/politics.html) | [*Tech*](other/tech.html) | [*Entertainment*](other/enter.html)| [*Fashion*](other/fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
+ |[*Home*](other/index.html) | [*Politics*](other/politics.html) | [*Tech*](other/tech.html) | [*Entertainment*](other/enter.html)| [*Fashion*](other/fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
  |-------|------------|--------|----------------|-----------|----|----|-----|----|-----|-----|
  
 <center><h1> <u><u><br>***<u>Techonology</u>***</u></u> <h1>
