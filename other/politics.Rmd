@@ -19,12 +19,12 @@ library("mapdata")
 library("plotly")
 ```
 
- |[*Home*](other/index.html) | [*Politics*](other/politics.html) | [*Tech*](other/tech.html) |[*Entertainment*](other/enter.html)| [*Fashion*](other/fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
+ |[*Home*](index.html) | [*Politics*](politics.html) | [*Tech*](tech.html) |[*Entertainment*](enter.html)| [*Fashion*](fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
  |-------|------------|--------|-----------|-----------|----|----|-----|----|-----|-----|
  
 <center><h1> <u><u><br>***<u>Politics</u>***</u></u> <h1>
 
-[<img src="other/politics.png" style="width: 550px;">](http://www.cnn.com/2017/04/25/politics/trump-north-korea-taunts/index.html) <br><br></center> 
+[<img src="politics.png" style="width: 550px;">](http://www.cnn.com/2017/04/25/politics/trump-north-korea-taunts/index.html) <br><br></center> 
 
 ### Washington (CNN) - North Korea put on a muscle-flexing display of artillery power Tuesday to mark a national holiday and thumb its nose at US President Donald Trump's declaration that the country has "gotta behave."
 
