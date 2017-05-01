@@ -33,3 +33,8 @@ library("plotly")
 ### Beiersdorf (BDRFF), the Hamburg-based company that owns Nivea, Eucerin and other skincare brands, said it decided to take the advert down due to what it called "concerns about ethnic discrimination."
 
 ### "We are deeply sorry to anyone who may take offense to this specific post. After realizing that the post is misleading, it was immediately withdrawn," the company said in a statement. The advert was also shared by accounts that have previously posted content promoting white supremacist views.
+
+
+<br><br><br><br>
+
+<img src="Capture.png" style="width: 1000px; height: 100px;">
