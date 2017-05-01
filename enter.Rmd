@@ -33,3 +33,8 @@ library("plotly")
 ### The series, which premiered March 31, follows the fictional story of a teenage girl named Hannah Baker (Katherine Langford) who leaves behind 13 mysterious audio recordings on cassette tapes after killing herself. She addresses each recording to a person who she says played a role in her tragic decision to end her own life.
 
 ### "The first thing that popped into my mind when watching it was, 'Wow,' " said Curtis, who founded the nonprofit Media Impact and Navigation for Teens, a program that raises awareness about online bullying.
+
+
+<br><br><br><br>
+
+<img src="Capture.png" style="width: 1000px; height: 100px;">

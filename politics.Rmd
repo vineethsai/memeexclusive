@@ -31,3 +31,8 @@ library("plotly")
 ### Pyongyang staged the pounding display of large caliber guns used in land warfare -- perhaps a reminder that Seoul and its US military base lie within easy reach -- shortly after detaining an American teacher, the third US citizen held by the regime.
 
 ### The US staged its own response, beginning joint naval drills in the region with South Korea and Japan as the aircraft carrier USS Carl Vinson moved toward the Korean Peninsula and one of the most powerful submarines in the American arsenal arrived in South Korea -- part of an "armada" the US was sending to the region, Trump told the Fox Business Network in mid-April.
+
+
+<br><br><br><br>
+
+<img src="Capture.png" style="width: 1000px; height: 100px;">

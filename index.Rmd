@@ -22,10 +22,11 @@ library("plotly")
  |[*Home*](index.html) | [*Politics*](politics.html) | [*Tech*](tech.html) | [*Entertainment*](enter.html)| [*Fashion*](fashion.html) | Money | Health | Travel | Sports | U.S. | World |  |
  |-------|------------|--------|----------------|-----------|----|----|-----|----|-----|-----|
  
-<center><h1> ***Top Stroies*** <h1> <br>
+<center><h1> ***Top Stories*** <h1> <br>
 
 #### Memes link to the news article
 
 [<img src="politics.png" style="width: 325px;">](http://www.cnn.com/2017/04/25/politics/trump-north-korea-taunts/index.html) [<img src="tech.png" style="width: 350px;">](http://money.cnn.com/2017/04/24/technology/google-yi-halo/index.html) [<img src="fashion.png" style="width: 350px;">](http://money.cnn.com/2017/04/05/news/companies/nivea-white-is-purity-racist-ad/index.html?iid=surge-stack-dom)  [<img src="ente.png" style="width: 350px;">](http://www.cnn.com/2017/04/25/health/13-reasons-why-teen-suicide-debate-explainer/index.html) <br><br></center> 
+<br><br><br><br>
 
-
+<img src="Capture.png" style="width: 1000px; height: 100px;">

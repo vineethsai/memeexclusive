@@ -33,3 +33,7 @@ library("plotly")
 ### "Cameras are hot. That's good. We planned this a while ago," Amit Singh, Google's VP of business for VR, said at a briefing with reporters in San Francisco ahead of the news release.
 
 ###The YI Halo will go on sale this summer, and Google says some early partners will get rigs right away. Why are consumer tech companies competing to make expensive hardware for a niche professional market? They really just want to sell more virtual reality headsets. But first, they need content people can actually watch on their futuristic face-mounted TVs.
+
+<br><br><br><br>
+
+<img src="Capture.png" style="width: 1000px; height: 100px;">
