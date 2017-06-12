@@ -26,13 +26,9 @@ library("plotly")
 
 [<img src="ente.png" style="width: 550px;">](http://www.cnn.com/2017/04/25/health/13-reasons-why-teen-suicide-debate-explainer/index.html) <br><br></center> 
 
-### Alexa Curtis, 19, laid her laptop on her dinner table and took a deep breath. It was a brisk April evening, and Curtis was prepared to spend the night in her Boston apartment watching the new Netflix series "13 Reasons Why." As the first three episodes of the teen drama unfolded on her computer screen, Curtis' heart began to race.
+### This article talks about why '13 reasons why' is an important topic to discuss for teens. The founder of the nonprofit Media Impact and Navigation for Teens program, Alexa Curtis suggested that for the younger generation, this show could lead them to think that this is the easy way out and the best way to get all the attention. She goes on to suggest that students should be talked about this show in all their health classes. 
 
-### "13 Reasons Why" is based on best-selling author Jay Asher's 2007 young adult book of the same title. Actress and pop star Selena Gomez co-produced the 13-episode Netflix adaptation.
-
-### The series, which premiered March 31, follows the fictional story of a teenage girl named Hannah Baker (Katherine Langford) who leaves behind 13 mysterious audio recordings on cassette tapes after killing herself. She addresses each recording to a person who she says played a role in her tragic decision to end her own life.
-
-### "The first thing that popped into my mind when watching it was, 'Wow,' " said Curtis, who founded the nonprofit Media Impact and Navigation for Teens, a program that raises awareness about online bullying.
+### Link to the article - http://www.cnn.com/2017/04/25/health/13-reasons-why-teen-suicide-debate-explainer/index.html
 
 
 <br><br><br><br>
